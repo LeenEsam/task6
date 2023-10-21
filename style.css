@@ -1,0 +1,15 @@
+.Services{
+
+text-align: center;
+}
+
+.Service{
+background-color: rgb(56, 123, 101);
+float: left;
+width:20%;
+
+
+}
+.clearfix{
+    clear: both;
+}
